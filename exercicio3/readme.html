@@ -1,0 +1,31 @@
+3 - Crie a classe Empregado com os atributos nome, codigoSetor (inteiro),
+salarioBase (vencimento base) e imposto (porcentagem retida dos impostos).
+• Crie os construtores e métodos gets e sets;
+• Crie o método calcularSalario, descontando o imposto pago pelo empregado
+Implemente a classe Administrador como subclasse da classe Empregado. Um
+determinado administrador tem como atributos, para além dos atributos da classe
+Pessoa e da classe Empregado, o atributo ajudaDeCusto (ajudas referentes a viagens,
+estadias, ...). Note que deverá redefinir na classe Administrador o método herdado
+calcularSalario (o salário de um administrador é equivalente ao salário de um
+empregado usual acrescido das ajuda de custo).
+Implemente a classe Operario como subclasse da classe Empregado. Um
+determinado operário tem como atributos, para além dos atributos da classe
+Empregado, o atributo valorProducao (que corresponde ao valor monetário dos artigos
+efetivamente produzidos pelo operário) e comissao (que corresponde à porcentagem
+do valorProducao que será adicionado ao vencimento base do operário). Note que
+deverá redefinir nesta subclasse o método herdado calcularSalario (o salário de um
+operário é equivalente ao salário de um empregado usual acrescido da referida
+comissão).
+Implemente a classe Vendedor como subclasse da classe Empregado. Um
+determinado vendedor tem como atributos, para além dos atributos da classe
+Empregado, o atributo valorVendas (correspondente ao valor monetário dos artigos
+vendidos) e o atributo comissao (porcentagem do valorVendas que será adicionado ao
+vencimento base do Vendedor). Note que deverá redefinir nesta subclasse o método
+herdado calcularSalario (o salário de um vendedor é equivalente ao salário de um
+empregado usual acrescido da referida comissão).
+Escreva uma classe teste com as seguintes informações:
+1. Crie um objeto Administrador, Operario e Vendedor
+2. Adicione os dados pedindo para que o usuário digite
+3. Imprima todas as informações desses empregados
+4. Calcule o salário de cada um desses empregados e imprima o salario
+calculado
