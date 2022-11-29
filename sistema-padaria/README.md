@@ -1,4 +1,4 @@
-###Sistema Padaria
+### Sistema Padaria
 
 A padaria da senhora Juliana está tecnologicamente atrasada. O sistema de controle é realizado à moda antiga, caneta e um caderno de anotações. A padaria possui uma
 grande clientela local, pois a senhora Juliana permite que os clientes anotem “na conta” os produtos que estão levando e efetuem o pagamento no final do mês (pagamento
