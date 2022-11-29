@@ -14,17 +14,17 @@ Segue abaixo o modelo de classes, com suas subclasses, interface e métodos para
 
 **1** – Cadastrar Venda (Antes de pedir os dados da Venda e realizar o cadastro, você deve pedir para informar os dados do Produto e do Cliente relativos a Venda).
 
-*2* – Buscar Venda Realizada.
+**2** – Buscar Venda Realizada.
 
-* 3 – Apresentar o relatório de vendas.
+**3** – Apresentar o relatório de vendas.
 
-** 4 ** – Apresentar o relatório de vendas a partir de um mês informado pelo usuário.
+**4** – Apresentar o relatório de vendas a partir de um mês informado pelo usuário.
 
-** 5 – Apresentar o relatório de vendas como meio de pagamento fiado.
+**5** – Apresentar o relatório de vendas como meio de pagamento fiado.
 
-** 6 – Apresentar o relatório de vendas como meio de pagamento dinheiro.
+**6** – Apresentar o relatório de vendas como meio de pagamento dinheiro.
 
-** 7 – Apresentar o relatório de vendas que ainda não foram pagas.
+**7** – Apresentar o relatório de vendas que ainda não foram pagas.
 
 
 #### OBS: O relatório de vendas deve ter todas as informações da venda. Como na venda tem o objeto Produto e Cliente, você terá as informações do cliente e do produto
