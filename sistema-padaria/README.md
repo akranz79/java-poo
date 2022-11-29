@@ -1,5 +1,7 @@
 ### Sistema Padaria
 
+#### Em desenvolvimento.
+
 A padaria da senhora Juliana está tecnologicamente atrasada. O sistema de controle é realizado à moda antiga, caneta e um caderno de anotações. A padaria possui uma
 grande clientela local, pois a senhora Juliana permite que os clientes anotem “na conta” os produtos que estão levando e efetuem o pagamento no final do mês (pagamento
 fiado). Uma das dificuldades da senhora Juliana calcular quanto tem a receber de fiado no mês. Cansado desta situação, ele deseja um sistema para obter um melhor gerenciamento.
@@ -10,14 +12,22 @@ Das vendas efetuadas pela padaria aos clientes são registrados o cliente, a dat
 
 Segue abaixo o modelo de classes, com suas subclasses, interface e métodos para serem construídos. Esse modelo foi construído para auxiliar vocês na criação das classes, métodos, atributos, etc. Após essa construção, você irá criar uma classe teste com o método MAIN, que irá criar objetos dessas classes construídas. Nesse método MAIN você irá criar um MENU para o funcionamento do sistema. O menu deverá ter as seguintes funções.
 
-1 – Cadastrar Venda (Antes de pedir os dados da Venda e realizar o cadastro, você deve pedir para informar os dados do Produto e do Cliente relativos a Venda).
-2 – Buscar Venda Realizada
-3 – Apresentar o relatório de vendas
-4 – Apresentar o relatório de vendas a partir de um mês informado pelo usuário
-5 – Apresentar o relatório de vendas como meio de pagamento fiado
-6 – Apresentar o relatório de vendas como meio de pagamento dinheiro
-7 – Apresentar o relatório de vendas que ainda não foram pagas
-OBS: O relatório de vendas deve ter todas as informações da venda. Como na venda tem o objeto Produto e Cliente, você terá as informações do cliente e do produto
+** 1 – Cadastrar Venda (Antes de pedir os dados da Venda e realizar o cadastro, você deve pedir para informar os dados do Produto e do Cliente relativos a Venda).
+
+** 2 – Buscar Venda Realizada.
+
+** 3 – Apresentar o relatório de vendas.
+
+** 4 – Apresentar o relatório de vendas a partir de um mês informado pelo usuário.
+
+** 5 – Apresentar o relatório de vendas como meio de pagamento fiado.
+
+** 6 – Apresentar o relatório de vendas como meio de pagamento dinheiro.
+
+** 7 – Apresentar o relatório de vendas que ainda não foram pagas.
+
+
+#### OBS: O relatório de vendas deve ter todas as informações da venda. Como na venda tem o objeto Produto e Cliente, você terá as informações do cliente e do produto
 relacionados a venda que precisam também ser apresentadas.  
 
 
