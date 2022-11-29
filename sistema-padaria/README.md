@@ -12,13 +12,13 @@ Das vendas efetuadas pela padaria aos clientes são registrados o cliente, a dat
 
 Segue abaixo o modelo de classes, com suas subclasses, interface e métodos para serem construídos. Esse modelo foi construído para auxiliar vocês na criação das classes, métodos, atributos, etc. Após essa construção, você irá criar uma classe teste com o método MAIN, que irá criar objetos dessas classes construídas. Nesse método MAIN você irá criar um MENU para o funcionamento do sistema. O menu deverá ter as seguintes funções.
 
-**1 – Cadastrar Venda (Antes de pedir os dados da Venda e realizar o cadastro, você deve pedir para informar os dados do Produto e do Cliente relativos a Venda).
+**1** – Cadastrar Venda (Antes de pedir os dados da Venda e realizar o cadastro, você deve pedir para informar os dados do Produto e do Cliente relativos a Venda).
 
-*2 – Buscar Venda Realizada.
+*2* – Buscar Venda Realizada.
 
 * 3 – Apresentar o relatório de vendas.
 
-** 4 – Apresentar o relatório de vendas a partir de um mês informado pelo usuário.
+** 4 ** – Apresentar o relatório de vendas a partir de um mês informado pelo usuário.
 
 ** 5 – Apresentar o relatório de vendas como meio de pagamento fiado.
 
